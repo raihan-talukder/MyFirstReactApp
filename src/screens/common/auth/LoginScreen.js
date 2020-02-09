@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
         resizeMode: "contain"
     },
     textLogo: {
+        /* height */
         resizeMode: "contain"
     },
 });
